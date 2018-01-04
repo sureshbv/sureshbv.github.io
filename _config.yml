@@ -1,2 +1,4 @@
 name: Suresh Kumar
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
